@@ -1,22 +1,39 @@
 <template>
   <div id="index">
-  <section class="hero is-dark is-fullheight">
-      <div class="hero-body">
-        <div class="container has-text-centered">
-          <div class="column is-6 is-offset-3">
-            <h1 class="title">
-              Em breve
-            </h1>
-            <h2 class="subtitle">
-              Descrição do projeto...
-            </h2>
-
-          </div>
+    <section class="is-fullheight">
+      <div class="columns is-gapless">
+        <div class="column">
+          <section class="hero is-coral-red is-fullheight ">
+            <div class="hero-body">
+              <div class="container has-text-centered">
+                <img class="image" src="/static/logo.jpg" />
+                <h1 class="is-family-sans-serif has-text-weight-light">
+                  <b-icon icon="phone"></b-icon> 85 9 9651 3483 <br />
+                  <b-icon icon="email"></b-icon> sofiaximenes.adv@gmail.com
+                </h1>
+              </div>
+            </div>
+          </section> <!-- /hero -->
         </div>
-      </div> <!-- /hero-body -->
-  </section>
+      </div>
+    </section>
   </div>
 </template>
+
+<!--
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Hero title
+      </h1>
+      <h2 class="subtitle">
+        Hero subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+-->
 
 <script>
 export default {
