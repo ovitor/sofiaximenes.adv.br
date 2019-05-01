@@ -28,6 +28,12 @@ $columbia-invert: findColorInvert($columbia);
 $coral-red: rgba(251, 60, 59, 1);
 $coral-red-invert: findColorInvert($coral-red);
 
+$rudy-brown: rgba(186, 80, 38, 1);
+$rudy-brown-invert: findColorInvert($rudy-brown);
+
+$carmine-pink: rgba(232, 79, 71, 1);
+$carmine-pink-invert: findColorInvert($carmine-pink);
+
 $colors: (
     "white": ($white, $black),
     "black": ($black, $white),
@@ -39,7 +45,9 @@ $colors: (
     "warning": ($warning, $warning-invert),
     "danger": ($danger, $danger-invert),
     "columbia": ($columbia, $columbia-invert),
-    "coral-red": ($coral-red, $coral-red-invert)
+    "coral-red": ($coral-red, $coral-red-invert),
+    "rudy-brown": ($rudy-brown, $rudy-brown-invert),
+    "carmine-pink": ($carmine-pink, $carmine-pink-invert)
 );
 
 @import '~bulma';

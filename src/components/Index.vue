@@ -3,10 +3,10 @@
     <section class="is-fullheight">
       <div class="columns is-gapless">
         <div class="column">
-          <section class="hero is-coral-red is-fullheight ">
+          <section class="hero is-rudy-brown is-fullheight ">
             <div class="hero-body">
               <div class="container has-text-centered">
-                <img class="image" src="/static/logo.jpg" />
+                <img class="image" src="/static/logo-transparente.png" />
                 <h1 class="is-family-sans-serif has-text-weight-light">
                   <b-icon icon="phone"></b-icon> 85 9 9651 3483 <br />
                   <b-icon icon="email"></b-icon> sofiaximenes.adv@gmail.com
