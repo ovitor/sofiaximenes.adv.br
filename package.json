@@ -1,7 +1,7 @@
 {
-  "name": "vuejs-base",
-  "version": "1.0.0",
-  "description": "Selling things in a fancy way",
+  "name": "sofiaximenes.adv.br",
+  "version": "0.1.0",
+  "description": "Simple site",
   "author": "Vitor Carvalho <vitorcarvalhoml@gmail.com>",
   "private": true,
   "scripts": {
